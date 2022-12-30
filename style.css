@@ -1,0 +1,17 @@
+#fundo{
+    background-image: url(fundo.webp);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+
+#myCanvas{
+    background-color: white;
+    border-style: ridge;
+    border-width: 8px;
+    border-color: rgb(235, 129, 129);
+    border-radius: 10px;
+}
